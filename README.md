@@ -1,7 +1,6 @@
 ### 서울 거주 고등학생 코딩러
 WebApp를 선호합니다.    
 주로 깃허브는 개인적으로 백업으로 사용하고 있습니다.    
-~~저의 공개된 모든 프로젝트는 프로그래밍 배운지 1년도 안된 초창기 프로젝트인 점을 감안해주세요~~
 
 
 [![깃허브 활동량](https://github-readme-stats.vercel.app/api?username=Jx2H&hide_border=true)](https://github.com/Jx2H)
